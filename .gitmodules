@@ -1,3 +1,6 @@
 [submodule "batmon-ha"]
 	path = batmon-ha
 	url = https://github.com/fl4p/batmon-ha
+[submodule "ha_autotherm"]
+	path = ha_autotherm
+	url = https://github.com/okionka/ha_autotherm
