@@ -1,3 +1,5 @@
-name: Add On Collection for Home Assistant
-url: https://github.com/okionka/HA-AddOns
-maintainer: olaf@kionka.net
+{
+"name": "OKionkas Add On Collection for Home Assistant",
+"url": "https://github.com/okionka/HA-AddOns",
+"maintainer": "Olaf Kionka <olaf@kionka.net>"
+}
