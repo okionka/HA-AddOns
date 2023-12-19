@@ -1,0 +1,17 @@
+
+#RPI RelayBoard
+Hardware
+- 9-16v/5V 4a Buck Converter - 2 port pluggable phoenix connector
+- two ADS1115
+-- Waterlevel Sensor, Voltage Divider (1k:?) -> 8 port pluggable phoenix connector
+-- Pekaway BatteryShunt -> Rj11 Connector
+- Rj45 Connector for Pekaway Touchscreen
+
+Uart1 + Power from the Input Screw Terminal
+
+
+DS18B20 Port ->  3 port pluggable phoenix connector
+OneWire Realtime Clock
+4x NO Relay -> 2 port pluggable phoenix connector
+4x NC/NO Relay -> 3 port pluggable phoenix connector
+JST Connector - "MultiUart" - Uart5 RPI 4

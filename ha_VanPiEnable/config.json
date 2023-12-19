@@ -1,0 +1,19 @@
+{
+    "name": "Van Pi Configurator",
+    "version": "0.1a",
+    "slug": "vanpicconfiguratoraddon",
+    "description": "This enables i2c,serial,1-wire. You can uninstall this when it has run once. Check logs for information.",
+    "arch": ["armhf", "armv7", "aarch64"],
+    "startup": "once",
+    "auth_api": true,
+    "init": false,
+    "ingress": true,
+    "app_armor": false,
+    "privileged": ["SYS_ADMIN"],
+    "stage": "experimental",
+    "full_access": true,
+    "url":"https://community.home-assistant.io/t/add-on-hassos-i2c-configurator/264167",
+    "boot": "manual",
+    "options": {},
+    "schema": {}
+  }
